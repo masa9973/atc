@@ -1,3 +1,4 @@
 node_modules
 **/**/test
 **/contest.acc.json
+.DS_Store
