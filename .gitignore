@@ -1,1 +1,3 @@
 node_modules
+**/**/test
+**/contest.acc.json
