@@ -1,5 +1,5 @@
 ### 新規
-acc new abc000 --template ts
+yarn new abc000
 
 ### テスト
 ディレクトリ移動してから
@@ -7,7 +7,7 @@ cd abc000/a
 oj t -c "ts-node main.ts"
 
 ### 提出
-acc submit
+yarn submit abc000 a
 
 ### テンプレコード
 "/Users/hoge/Library/Preferences/atcoder-cli-nodejs/ts/main.ts"に記述

@@ -9,8 +9,8 @@
     "typescript": "^5.1"
   },
   "scripts": {
-    "new": "acc new ${1} --template ts",
-    "submit": "acc submit main.ts -- -l 5058"
+    "new": "sh new.sh",
+    "submit": "sh submit.sh"
   },
   "dependencies": {
     "atcoder-cli": "^2.2.0"
