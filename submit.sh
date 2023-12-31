@@ -3,4 +3,4 @@
 current_directory=$(pwd)
 c_id=$1
 c_num=$2
-oj s -l 5058 https://atcoder.jp/contests/$c_id/tasks/${c_id}_a $current_directory/$c_id/$c_num/main.ts
+oj s -l 5058 https://atcoder.jp/contests/$c_id/tasks/${c_id}_${c_num} $current_directory/$c_id/$c_num/main.ts
